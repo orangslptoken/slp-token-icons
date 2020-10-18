@@ -21,8 +21,7 @@ The format is tokens.bch.sx/`{size}`/`{txid}`.`{format}`
 `https://tokens.bch.sx/32/4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28.png`
 
 `https://tokens.bch.sx/original/4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28.png`
-
-## Adding your icon
+https://github.com/yourUSERNAME/slp-token-icons# Adding your icon
 
 Create a version of your icon in 32x32, 64x64, 128x128 and "original" (more than or equal to 128px) and add them to their respective folders in a pull request. If you have a SVG file, feel free to add that to.
 
